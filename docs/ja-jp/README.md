@@ -6,7 +6,7 @@ authors:
 lastUpdated: 2026-09-28
 ---
 
-学びたい内容と深さに合わせてワークショップを選びます。**はじめの一歩**では GitHub Copilot をガイドに沿って体験し、**実践的な開発**では完成したアプリケーションとチームのバックログを使って、本番環境を意識したワークフローを学びます。
+学びたい内容と深さに合わせてワークショップを選びます。**はじめの一歩**では GitHub Copilot をガイドに沿って体験し、**実践的な開発**では現実的なシナリオ、完成したアプリケーション、共通のバックログを使って、本番環境を意識したワークフローを学びます。
 
 ## はじめの一歩
 
@@ -40,4 +40,4 @@ GitHub Copilot CLI、GitHub Copilot app、GitHub Copilot cloud agent、Visual St
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
